@@ -1,0 +1,9 @@
+{
+  "name": "no-quality-on-buildings",
+  "version": "1.0.0",
+  "title": "No quality icons on buildings",
+  "author": "snouz",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.0", "quality"],
+  "description": "This mod makes the bottom left quality icons on entities invisible."
+}
